@@ -1,0 +1,10 @@
+* trivial-coverage
+
+A simple Common Lisp library to print out the code coverage collected. Supports SBCL and CCL. (This is a mirror from GitLab)
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-coverage.git   |
+| commit  | b409ac3  |
+| systems | trivial-coverage |
+|---------+-------------------------------------------|
+
